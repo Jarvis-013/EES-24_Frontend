@@ -16,7 +16,7 @@ const Footer = () => {
         >
           {/* get in touch heading */}
           <div className=" footer-top-section flex items-center justify-center relative w-full h-fit">
-            <div className="bg-transparent font-goldman text-[48px] outline-none m-[2rem] border-solid border-2  border-white tracking-[0.08em] text-pitchdeck-slide-background text-left flex items-center">
+            <div className="bg-transparent font-goldman text-[48px] outline-none mt-[3rem] border-solid border-2  border-white tracking-[0.08em] text-pitchdeck-slide-background text-left flex items-center">
               GET IN TOUCH
             </div>
 
